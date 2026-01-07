@@ -1414,7 +1414,7 @@
 		(property "Reference" "D4"
 			(at 0 -2.75 0)
 			(layer "F.SilkS")
-			(uuid "70605377-360d-47fd-ad25-8bcb2f950335")
+			(uuid "fed7ca04-0f91-4a42-b2f7-d6ee20fd030b")
 			(effects
 				(font
 					(size 1 1)
@@ -1425,7 +1425,7 @@
 		(property "Value" "SK6812MINI"
 			(at 0 3.25 0)
 			(layer "F.Fab")
-			(uuid "9f673907-b265-4f28-998e-ab323591915f")
+			(uuid "bc7ee221-8236-4b24-bccb-acbcbb63ef4f")
 			(effects
 				(font
 					(size 1 1)
@@ -1438,7 +1438,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4f9d1d4a-5fbd-4826-824a-c40f0a9e94b1")
+			(uuid "f60a570a-7ca0-4f28-91c4-6a741f2250e6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1451,7 +1451,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "47d9774c-7fe6-406d-9aff-5322bbd7b2f3")
+			(uuid "429b5f7d-2ab9-44cc-b622-dd83c9585962")
 			(effects
 				(font
 					(size 1.27 1.27)
