@@ -17,9 +17,9 @@ BOM:
 Case:
 ![case 3d model](<MacroMachine/Screenshots/case.png>)
 PCB:
-![pcb layout](<MacroMachineScreenshots/pcb.png>)
+![pcb layout](<MacroMachine/Screenshots/pcb.png>)
 PCB Schem:
-![pcb schematic](<PMacroMachine/Screenshots/pcbschem.png>)
+![pcb schematic](<MacroMachine/Screenshots/pcbschem.png>)
 
 Full:
 ![full](MacroMachine/Screenshots/full.png)
