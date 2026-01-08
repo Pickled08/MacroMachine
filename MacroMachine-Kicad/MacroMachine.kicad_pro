@@ -487,10 +487,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../PROJECT FILES FOR REVIEW/PCB + 3d Model/PCB Gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "MacroMachine.step",
       "svg": "",
       "vrml": ""
     },
