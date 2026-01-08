@@ -15,11 +15,11 @@ BOM:
 4x M3 Heatset
 
 Case:
-![case 3d model](<PROJECT FILES FOR REVIEW/Screenshots/case.png>)
+![case 3d model](<MacroMachine/Screenshots/case.png>)
 PCB:
-![pcb layout](<PROJECT FILES FOR REVIEW/Screenshots/pcb.png>)
+![pcb layout](<MacroMachineScreenshots/pcb.png>)
 PCB Schem:
-![pcb schematic](<PROJECT FILES FOR REVIEW/Screenshots/pcbschem.png>)
+![pcb schematic](<PMacroMachine/Screenshots/pcbschem.png>)
 
 Full:
 ![full](MacroMachine/Screenshots/full.png)
