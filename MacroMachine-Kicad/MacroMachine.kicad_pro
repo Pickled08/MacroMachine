@@ -487,7 +487,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../PROJECT FILES FOR REVIEW/PCB + 3d Model/PCB Gerber/",
+      "plot": "../MacroMachine/PCB/Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "MacroMachine.step",
