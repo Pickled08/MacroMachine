@@ -25,4 +25,4 @@ Full:
 ![full](MacroMachine/Screenshots/full.png)
 
 Final:
-![final](MacroMachine/Screenshots/Final.jpeg)
+![final](MacroMachine/Screenshots/final.jpeg)
